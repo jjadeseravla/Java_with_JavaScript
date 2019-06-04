@@ -1,11 +1,13 @@
 # Calling Java from JavaScript
 
-## get boilerplate from vaadin, make sure it is plain java.
+## Instructions
+get boilerplate from vaadin, make sure it is plain java.
 unzip open on intellij
 on configurations, add maven and jetty:run on name and command line.
 run with green button.
 
-## javascript function appears on dev tools of the default localhost8080 and
+## Info
+javascript function appears on dev tools of the default localhost8080 and
 java function called on the javascript appears on intelliJ terminal.
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/vaadin-flow/Lobby#?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
